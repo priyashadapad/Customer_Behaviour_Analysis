@@ -79,6 +79,7 @@ The data is initially processed using Python and later stored in a SQL database 
   * Average purchase value
   * Discount impact analysis
   * Key performance indicators
+<img width="1163" height="661" alt="image" src="https://github.com/user-attachments/assets/c64af34f-cf90-40df-b9d9-fb68489b3ae5" />
 
 ---
 
