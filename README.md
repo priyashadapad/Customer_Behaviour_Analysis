@@ -36,7 +36,7 @@ The data is initially processed using Python and later stored in a SQL database 
 
 ## Tools and Technologies
 
-* Python (Pandas, NumPy) for data cleaning and exploratory data analysis
+* Python (Pandas) for data cleaning and exploratory data analysis
 * MySQL for business-driven queries
 * Power BI for interactive dashboards and data visualization
 * Jupyter Notebook for development and analysis
